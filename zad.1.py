@@ -1,3 +1,5 @@
+"""Kamil Napieraj lab.03"""
+
 import base64
 
 def szyfrowanie(text):
